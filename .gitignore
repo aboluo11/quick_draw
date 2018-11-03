@@ -1,0 +1,4 @@
+.*
+inputs
+temp*
+!.gitignore
